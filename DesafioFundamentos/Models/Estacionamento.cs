@@ -76,5 +76,20 @@ namespace DesafioFundamentos.Models
                 Console.WriteLine("Não há veículos estacionados.");
             }
         }
+
+        //      public void EncerrarPrograma(bool menu)
+        // {   
+        //     // Verifica se há veículos no estacionamento
+        //     if (veiculos.Any() && menu) 
+        //     {
+        //         Console.WriteLine("Ainda há veículos estacionados");
+        //         menu = true;
+        //     } else {
+        //         // Caso não haja mais nenhum veículo estacionado, ele encerra o programa
+        //         menu = false;
+        //     }
+        // }
+
+        
     }
 }
